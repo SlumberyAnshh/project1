@@ -1,4 +1,4 @@
-name: Voice Ledger
+name: Voice Ledger App
 on:
   push:
     branches: [ main ]
